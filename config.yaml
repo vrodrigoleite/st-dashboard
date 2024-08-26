@@ -1,0 +1,19 @@
+credentials:
+  usernames:
+    vrleite:
+      email: victor.leite@mesro.com.br
+      logged_in: False
+      name: Victor Leite
+      password: $2b$12$tjbPGgsaQDdfcw5A0VPcIOmweqMJ.y3hk98pJS0ALH9RgLYsWso1q # To be replaced with hashed password
+    gavz:
+      email: gavz@gmail.com
+      logged_in: False
+      name: Gabriel Vaz
+      password: $2b$12$wqTd.JadZ5lpwF9D0IaSqOaAwXIQDVrzPR/A8rFqGCpcZG9m0fNFO # To be replaced with hashed password
+cookie:
+  expiry_days: 1
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - teste@gmail.com
